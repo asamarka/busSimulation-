@@ -2,7 +2,7 @@
 homework for operating system
 
 
-First-Come-First-Served and Shortest-Job-First (SJF) algorithms. Experiment with exponential averaging. 
-Round Robin.
+Round Robin, First-Come-First-Served and Shortest-Job-First (SJF) algorithms.
+
 
 
