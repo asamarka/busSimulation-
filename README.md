@@ -1,4 +1,4 @@
-# busSimulation-
+# Simulation-
 homework for operating system
 
 Write a simulation of a (rather simplified) system of Figure 1. You should re-use the core
